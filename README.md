@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my own projects<br>👯 I’m looking to collaborate whith others developers<br>🌱 I’m currently learning app development<br>💬 Ask me about data communication and networks<br>
+🔭 I’m currently working on my own projects<br>👨‍💻 I’m looking to collaborate whith others developers<br>🌱 I’m currently learning app development<br>💬 Ask me about data communication and networks<br>
 
 
 ## 🌐 Socials:
